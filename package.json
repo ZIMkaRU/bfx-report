@@ -16,7 +16,7 @@
     "bfx-facs-base": "git+https://github.com:bitfinexcom/bfx-facs-base.git",
     "bfx-facs-deflate": "git+https://github.com:bitfinexcom/bfx-facs-deflate.git",
     "bfx-facs-interval": "git+https://github.com/bitfinexcom/bfx-facs-interval.git",
-    "bfx-facs-lokue": "git+https://github.com:bitfinexcom/bfx-facs-lokue.git",
+    "bfx-facs-lokue": "git+https://github.com:ZIMkaRU/bfx-facs-lokue.git#feature/add-ability-to-override-path-to-db",
     "bfx-svc-boot-js": "https://github.com/bitfinexcom/bfx-svc-boot-js.git",
     "bfx-wrk-api": "git+https://github.com/bitfinexcom/bfx-wrk-api.git",
     "bitfinex-api-node": "^2.0.8",
