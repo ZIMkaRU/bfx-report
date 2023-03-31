@@ -155,4 +155,14 @@ describe('splitSymbolPairs helper', () => {
     assert.lengthOf(res, 1)
     assert.strictEqual(res[0], 'MATICMF0')
   })
+
+  it('APENFT coin, without separator', function () {
+    this.timeout(1000)
+
+    const res = splitSymbolPairs('APENFT')
+
+    assert.isArray(res)
+    assert.lengthOf(res, 1)
+    assert.strictEqual(res[0], 'APENFT')
+  })
 })
