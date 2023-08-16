@@ -155,7 +155,7 @@ const _getTransports = () => {
     baseTransports: [
       new transports.File({
         filename: pathError,
-        level: 'error',
+        level: 'debug',
         maxsize: maxSize,
         colorize: false
       }),
