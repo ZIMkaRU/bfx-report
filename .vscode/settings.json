@@ -1,0 +1,4 @@
+{
+  "eslint.enable": true,
+  "eslint.nodePath": "./node_modules/@bitfinex/lint-js/vendor"
+}
