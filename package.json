@@ -17,7 +17,7 @@
     "@bitfinex/bfx-facs-grc-slack": "git+https://github.com/bitfinexcom/bfx-facs-grc-slack.git#v2.0.0",
     "@bitfinex/bfx-facs-lokue": "git+https://github.com/bitfinexcom/bfx-facs-lokue.git#v2.0.0",
     "@bitfinex/bfx-svc-boot-js": "git+https://github.com/bitfinexcom/bfx-svc-boot-js.git#v2.0.0",
-    "@bitfinex/bfx-wrk-api": "git+https://github.com/bitfinexcom/bfx-wrk-api.git",
+    "@bitfinex/bfx-wrk-api": "git+https://github.com/bitfinexcom/bfx-wrk-api.git#v2.0.0",
     "@bitfinex/lib-js-util-base": "git+https://github.com/bitfinexcom/lib-js-util-base.git",
     "ajv": "8.18.0",
     "ajv-formats": "3.0.1",
