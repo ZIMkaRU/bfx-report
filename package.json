@@ -69,7 +69,7 @@
     "startDev": "cross-env NODE_ENV=development nodemon worker.js --env=development --wtype=wrk-report-service-api --apiPort 1337 --dbId 1",
     "startServDev": "cross-env NODE_ENV=development NODE_CONFIG_DIR=./test/config node ./node_modules/@bitfinex/bfx-report-express",
     "startSimulEnv": "cross-env NODE_ENV=development node test/simulate/simulate-enviroment.js",
-    "test": "lint && npm run unit && cross-env NODE_ENV=test mocha './test/**/*.spec.js' --config .mocharc.json",
+    "test": "npm run lint && npm run unit && cross-env NODE_ENV=test mocha './test/**/*.spec.js' --config .mocharc.json",
     "testDev": "cross-env NODE_ENV=test mocha './workers/**/__test__/*-dev.spec.js' './test/**/*-dev.spec.js' --config .mocharc.json",
     "unit": "cross-env NODE_ENV=test mocha './workers/**/__test__/*.spec.js' --config .mocharc.json",
     "lint": "bfx-lint-js",
