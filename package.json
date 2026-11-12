@@ -13,7 +13,7 @@
     "Ezequiel Wernicke <ezequiel.wernicke@bitfinex.com>"
   ],
   "dependencies": {
-    "@bitfinex/bfx-facs-deflate": "git+https://github.com/bitfinexcom/bfx-facs-deflate.git",
+    "@bitfinex/bfx-facs-deflate": "git+https://github.com/bitfinexcom/bfx-facs-deflate.git#v2.0.0",
     "@bitfinex/bfx-facs-grc-slack": "git+https://github.com/bitfinexcom/bfx-facs-grc-slack.git",
     "@bitfinex/bfx-facs-lokue": "git+https://github.com/bitfinexcom/bfx-facs-lokue.git",
     "@bitfinex/bfx-svc-boot-js": "git+https://github.com/bitfinexcom/bfx-svc-boot-js.git",
