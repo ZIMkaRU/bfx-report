@@ -36,7 +36,7 @@
     "triple-beam": "1.4.1",
     "winston": "3.19.0",
     "winston-transport": "4.9.0",
-    "yargs": "17.2.1"
+    "yargs": "17.7.3"
   },
   "devDependencies": {
     "@bitfinex/bfx-report-express": "git+https://github.com/bitfinexcom/bfx-report-express.git",
