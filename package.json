@@ -24,7 +24,7 @@
     "async": "^3.2.6",
     "bitfinex-api-node": "^10.0.0",
     "colors": "1.4.0",
-    "csv": "5.5.3",
+    "csv-stringify": "6.9.0",
     "i18next": "23.15.1",
     "i18next-fs-backend": "2.6.7",
     "inversify": "7.11.0",
