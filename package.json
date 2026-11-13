@@ -34,7 +34,7 @@
     "pug": "3.0.4",
     "reflect-metadata": "0.2.2",
     "triple-beam": "1.4.1",
-    "winston": "3.18.3",
+    "winston": "3.19.0",
     "winston-transport": "4.9.0",
     "yargs": "17.2.1"
   },
